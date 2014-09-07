@@ -1,0 +1,7 @@
+parameters:
+#    olix_admin.example.class: Olix\AdminBundle\Example
+
+services:
+#    olix_admin.example:
+#        class: %olix_admin.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
