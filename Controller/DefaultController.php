@@ -1,6 +1,6 @@
 <?php
 
-namespace Olix\AdminBundle\Controller;
+namespace Olix\TestBundle\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 
@@ -8,6 +8,6 @@ class DefaultController extends Controller
 {
     public function indexAction($name)
     {
-        return $this->render('OlixAdminBundle:Default:index.html.twig', array('name' => $name));
+        return $this->render('OlixTestBundle:Default:index.html.twig', array('name' => $name));
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace Olix\AdminBundle\Tests\Controller;
+namespace Olix\TestBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
