@@ -21,6 +21,7 @@
 	"autoload": {
 		"psr-0": { "Olix\\TestBundle\\": "" }
 	},
+	"target-dir": "Olix/TestBundle",
 	"extra": {
 		
 	}
