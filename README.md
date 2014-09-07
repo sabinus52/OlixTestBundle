@@ -1,4 +1,4 @@
 OlixTestBundle
 ==============
 
-Test
+Test et suite
