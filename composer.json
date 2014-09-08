@@ -1,7 +1,7 @@
 {
-	"name": "sabinus52/admin-bundle",
+	"name": "sabinus52/test-bundle",
 	"type": "symfony-bundle",
-	"description": "Symfony OlixAdminBundle",
+	"description": "Symfony OlixTestBundle",
 	"keywords": ["Admin Generator", "admin", "olix", "bootstrap"],
 	"homepage": "https://github.com/sabinus52/OlixTestBundle",
 	"license": "GPL",
@@ -21,7 +21,7 @@
 	"autoload": {
 		"psr-0": { "Olix\\TestBundle\\": "" }
 	},
-	"target-dir": "",
+	"target-dir": "Olix/TestBundle",
 	"extra": {
 		
 	}
